@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300&display=swap');
+.me{
+    font-family: 'Sansita Swashed', cursive;
+    margin-left: 50px;
+    color:#08073B;
+    text-decoration: underline;
+ }
+ .cont img{
+    width: 450px;
+    height: 450px;
+    margin-right:10px;
+    margin-bottom:10px;
+}
+.cont {
+	display: flex;
+    flex-direction: row;
+    height: 455px;
+    font-family: 'Sansita Swashed', cursive;
+    margin-top: 100px;
+}
+body{
+    background-image:  url("../../images/background.png");
+    /*background image from https://www.pngitem.com*/
+ }
+
+ .middle {
+    width: 455px;
+    border-style: solid;
+    margin-left: 200px;
+}
+p{
+    margin-left: 20px;
+}
