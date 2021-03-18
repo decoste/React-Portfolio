@@ -1,0 +1,89 @@
+.mid{
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-left: 80px;
+    height: 250px;
+    font-family: 'Sansita Swashed', cursive;
+    font-weight: bold;
+    font-size: 20px;
+}
+.mid2{
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-left: 80px;
+    height: 250px;
+    font-family: 'Sansita Swashed', cursive;
+    font-weight: bold;
+    font-size: 20px;
+}
+.test img{
+    width: 550px;
+    display: inline-block;
+    margin-right: 60px;
+}
+.text{
+    width: 500px;
+    float:left;
+    margin:20px;
+    margin-left: 0px;
+    margin-top: 70px;
+    font-weight: bold;
+    font-size: 40px;
+    color:#08073B;
+}
+.text2{
+    width: 500px;
+    float:left;
+    margin:20px;
+    margin-left: 0px;
+    margin-top: 40px;
+    font-weight: bold;
+    font-size: 40px;
+    color:#08073B;
+}
+
+.first{
+    width:300px;
+    margin-bottom: 10px;
+    padding-top: 20px;
+    float:left;
+ 
+    margin:20px;
+    margin-left: 0px;
+}
+.cert2 img{
+    width: 150px;
+    height: 150px;
+    margin-top: 10px;
+    border-style: solid;
+    border-radius: 115px/50px;
+ }
+ .cert img{
+    width: 230px;
+    height: 250px;
+ }
+ .sec{
+    width:300px;
+    float:left;
+
+    margin:20px;
+    margin-left: 0px;
+}
+i{
+    padding: 120px;
+    margin-top: 40px;
+}
+.image {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  div{
+    line-height: 20px
+}
+h3{
+    color:#08073B;
+    padding-bottom: 5px;
+}
