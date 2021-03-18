@@ -1,0 +1,53 @@
+.contact{
+    width: 350px;
+    margin-top: 60px;
+    margin-right: 40px;
+    }
+    svg{
+        margin-right: 30px;
+        margin-left: 30px;
+        color: black;
+    }
+    .invalid p {
+        display:inline-block;
+        color: red;
+    }
+    .container {
+        font-family: 'Sansita Swashed', cursive;
+        width: 100px;
+        display: flex;
+        flex-direction: row;
+        margin-top: 85px;
+      }
+      .center{
+        background-color:white; 
+        border: 1px solid  #007BFF;
+        width: 400px;
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+    h2{
+        margin-left: 10px;
+       padding-top: 10px;
+       color: #007BFF;
+    }
+    .submit-btn {
+        margin-left: 20px;
+        margin-bottom: 20px;
+    }
+    .text{
+        width: 500px;
+        float:left;
+        margin:20px;
+        margin-left: 0px;
+        margin-top: 70px;
+        font-weight: bold;
+        font-size: 40px;
+        color:#08073B;
+    }
+    div{
+        line-height: 20px
+    }
+    p{
+        margin-left: 20px;
+    }
