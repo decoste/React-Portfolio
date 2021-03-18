@@ -6,12 +6,14 @@ function Contact() {
     
     return (
         <>
-            <div className="container">
            
-                <div className="center">
+<div class="row">
+           
+                <div className="col-md-4 center">
 
                     <h2>Contact</h2>
                     <hr />
+                    
                     <form action="https://formspree.io/f/xyybpwrk" method="post">
                         <div className="form-group col-md-10">
                             <div className="invalid">
@@ -40,7 +42,8 @@ function Contact() {
                 <button id="btn1" type="submit" className="btn btn-primary submit-btn">Submit</button>
                     </form>
                 </div>
-                <div className="contact">
+
+                <div className="col-md-4 contact">
             <h3>Please feel free to contact me</h3>
            
                 <a href="https://github.com/decoste" target="_blank">
@@ -60,6 +63,7 @@ function Contact() {
                 </a>
             </div>
                 </div>
+             
        
         </>
     )
