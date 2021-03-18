@@ -1,3 +1,18 @@
-nav.navbar {
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300&display=swap');
+.NavColor {
+  background-color: #e3f2fd
+}
+.nav-left {
+  position: absolute;
+  right: 30px;
+}
+.font{
+  font-family: 'Sansita Swashed', cursive;
+  font-size:medium;
+}
+nav.navbar.navbar-default {
   margin-bottom: 0;
+}
+h3{
+  color:#08073B;
 }
