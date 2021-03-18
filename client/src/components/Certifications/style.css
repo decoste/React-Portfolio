@@ -1,0 +1,57 @@
+.midd{
+    width: 1270px;
+    margin: 0 auto;
+    margin-top: 160px;
+    margin-left: 80px;
+    height: 250px;
+    font-family: 'Sansita Swashed', cursive;
+    font-weight: bold;
+    font-size: 20px;
+}
+.one{
+    width: 370px;
+    float:left;
+    height:400px;
+    margin:20px;
+    margin-left: 0px;
+    }
+    .two {
+        width: 370px;
+        float:left;
+        height:400px;
+        margin:20px;
+        margin-left: 0px;
+    }
+    .three {
+        width: 460px;
+        float:left;
+        height:400px;
+        margin:20px;
+        margin-left: 0px;
+    }
+    .one p{
+  
+        margin-left: 130px;
+    }
+    .two p{
+    
+        margin-left: 130px; 
+    }
+    .three p{
+        margin-left: 90px;
+    }
+    .cert img{
+       width: 230px;
+       height: 250px;
+    }
+    .cert img{
+        width: 230px;
+        height: 250px;
+     }
+     i{
+        padding: 120px;
+        margin-top: 40px;
+    }
+    p{
+        margin-left: 20px;
+    }
